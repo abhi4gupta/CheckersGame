@@ -16,9 +16,11 @@ JavaFx liberaries are required to run the GUI based features.
 
 1. As soon as the game starts, the user is asked to choose a mode to continue playing. There are three modes available viz a viz AI vs AI, AI vs Human, Human vs Human.
 
-      ![image](https://user-images.githubusercontent.com/47221030/123680832-c3501000-d866-11eb-8eef-fbbcf548dd06.png) 
+     ![image](https://user-images.githubusercontent.com/47221030/123680832-c3501000-d866-11eb-8eef-fbbcf548dd06.png) 
+     
 
 	* From the drop down if the user chooses the AI vs Human mode then the user is again given 5 options to choose the difficulty.
+	
 
 	![image](https://user-images.githubusercontent.com/47221030/123680893-d19e2c00-d866-11eb-801c-a705d0729656.png)
 
@@ -36,7 +38,9 @@ JavaFx liberaries are required to run the GUI based features.
 5. The game GUI also features a score board at the bottom of the screen which shows the scores of the two players and the color of the player who plays next.
 
 ![image](https://user-images.githubusercontent.com/47221030/123680986-e24ea200-d866-11eb-9363-92f966fce6e9.png)
-6. Upon completion of the game, a dialogue is shown which tells the name of the winner.
+
+6. Upon completion of the game, a dialogue is shown which tells the name of the winner.]
+
 ![image](https://user-images.githubusercontent.com/47221030/123681017-e975b000-d866-11eb-8bbb-d0560b6d96cc.png)
 
 ## Logic
